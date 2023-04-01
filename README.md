@@ -2,8 +2,6 @@
 
 Statements
 
-Statements
-
 1.
 It is necessary to model the Book type object with the following characteristics, title,
 price, stock and Author, the latter has the characteristics of name, surname,
